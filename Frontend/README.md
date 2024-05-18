@@ -1,8 +1,5 @@
-# React + Vite
+# Game Review
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website ini dikhususkan untuk tutam sbd modul 9, Website ini adalah website community-based yang beberapa user bisa memberikan pendapatnya kepada game game yang mereka mainkan.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Author: Ryan Safa Tjendana - 2206826835
