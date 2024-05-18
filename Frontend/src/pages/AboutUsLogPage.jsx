@@ -28,6 +28,15 @@ const AboutUsLog = () => {
                   Our application provides a platform for all gamers to review their games without anything to worry about everything in here is free.
               </p>
             </section>
+            <section>
+              <h3 className="text-2xl font-semibold mt-8 mb-4">Developers:</h3>
+              <p className="text-lg">
+                  BackEnd: Ryan Safa Tjendana
+              </p>
+              <p className="text-lg">
+                  FrontEnd: Ryan Safa Tjendana
+              </p>
+            </section>
         </div>
         </div>
     </div>
