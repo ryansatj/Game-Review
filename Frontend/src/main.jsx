@@ -18,31 +18,31 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "login",
+    path: "/login",
     element: <Loginpage/>,
   },
   {
-    path: "signup",
+    path: "/signup",
     element: <SignupPage/>
   },
   {
-    path: "about",
+    path: "/about",
     element: <AboutUs/>
   },
   {
-    path: "games",
+    path: "/games",
     element: <MainPage/>
   },
   {
-    path: "aboutus",
+    path: "/aboutus",
     element: <AboutUsLog/>
   },
   {
-    path: "create",
+    path: "/create",
     element: <CreateReviewPage/>
   },
   {
-    path: "edit/:id",
+    path: "/edit/:id",
     element: <EditPage/>
   },
 ]);
