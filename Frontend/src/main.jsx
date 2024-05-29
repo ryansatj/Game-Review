@@ -14,7 +14,7 @@ import EditPage from './pages/EditPage.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/a",
+    path: "/",
     element: <App />,
   },
   {
