@@ -8,10 +8,10 @@ const Usermenu = () => {
           <div className="bg-customBlue p-2 rounded-lg text-2xl font-bold">Game Review</div>
         </div>
         <div className="flex space-x">
-          <a href="http://localhost:5173/games" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Home</a>
-          <a href="http://localhost:5173/create" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Create</a>
-          <a href="http://localhost:5173/aboutus" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">About Us</a>
-          <a href="http://localhost:5173/" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Logout</a>
+          <a href="/games" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Home</a>
+          <a href="/create" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Create</a>
+          <a href="/aboutus" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">About Us</a>
+          <a href="/" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Logout</a>
         </div>
       </div>
     </nav>
