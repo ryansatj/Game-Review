@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className="bg-customBlue p-2 rounded-lg text-2xl font-bold">Game Review</div>
         </div>
         <div className="flex space-x">
-          <a href="/" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Home</a>
+          <a href="google.com" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Home</a>
           <a href="/about" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">About Us</a>
           <a href="/login" className="hover:bg-gradient-to-r from-gray-900 to-gray-800 hover:scale-105 px-3 py-2 rounded">Login</a>
         </div>
